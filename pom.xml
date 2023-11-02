@@ -4,7 +4,7 @@
 
     <artifactId>idealbassoon</artifactId>
     <groupId>com.namajaco</groupId>
-    <version>2023.0.0</version>
+    <version>0.0.1</version>
 
     <properties>
         <project.java.target.version>21</project.java.target.version>
